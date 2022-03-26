@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /Project/pycharm_project/OpenPCDet-master/mycode/pointcloud_pub_sub_ws/pointcloud_pub_sub/devel/setup.sh

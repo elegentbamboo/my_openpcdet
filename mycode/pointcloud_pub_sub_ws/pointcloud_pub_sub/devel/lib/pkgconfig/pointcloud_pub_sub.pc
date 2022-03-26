@@ -1,0 +1,8 @@
+prefix=/Project/pycharm_project/OpenPCDet-master/mycode/pointcloud_pub_sub_ws/pointcloud_pub_sub/devel
+
+Name: pointcloud_pub_sub
+Description: Description of pointcloud_pub_sub
+Version: 0.0.0
+Cflags: -I/Project/pycharm_project/OpenPCDet-master/mycode/pointcloud_pub_sub_ws/pointcloud_pub_sub/src/include
+Libs: -L${prefix}/lib -lpointcloud_pub_sub
+Requires: roscpp rospy sensor_msgs std_msgs
